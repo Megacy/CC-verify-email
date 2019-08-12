@@ -1,0 +1,30 @@
+[align=center][img]http://i.imgur.com/ffBdq1D.png[/img][/align]
+
+[b]Features:[/b]
+This Theme has many new features which were never previously tried by me and i wish you guys would love them too.
+
+[list]
+[*]Font Awesome Icons Replacing 90% MyBB Images : This i have to explain as i have literally made all possible icons integrated into MyBB system that took many days of work.
+[list]
+[*]All On/ Off icons, Thread Status Icons, Usercp, Modcp , Showthread, Postbit etc are replaced by font awesome icons.
+[/list]
+[*]Flat Dark Clean UI/UX design.
+[*]CSS3 Main Menu & jQuery Dropdown menus, Options Panel in show thread and threadlist.
+[*]CSS3 Animations for icons and links.
+[*]Modal Boxes.
+[*]CSS3 Postbit, Threadlist, Showthread Buttons.
+[*]Custom User Profiles.
+[*]Custom Editor.
+[*]Custom SIdebar with Rotating Banners.
+[*]Tabbed Statistics.
+[*]Custom footer design with Social Links.
+[*]jQuery Expanding Search Bar, Anouncements. etc. and lots more...
+[/list]
+
+Demo / Previews:
+
+[video=youtube]https://www.youtube.com/watch?v=cU3HWb4NAog[/video]
+
+Preview Album: http://imgur.com/a/i30wH#0
+
+[hide]https://mega.co.nz/#!1owEnbwY!P4lBNppdcAPBWIFl6I9xan3k0CaLXKdPDzA_3Vp8R-g[/hide]

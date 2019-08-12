@@ -1,0 +1,32 @@
+[img]http://i.imgur.com/Tfcdsns.png[/img]
+
+[u]Features[/u]
+Quickly into the features, i would like to say the best.
+1. Majority of the icons are replaced by custom Font Icons from FontAwesome.
+2. Custom fonts included.
+3. Css3 and jQuery Animations like 
+a. Spinning & Fading Social Links on hover.
+b. Jquery Search Bar.
+c. Collapses.
+d. Link and Button Hover Effects.
+4. Introduction of jQuery Color Picker which gives you to style your forum with unlimited color possibilities.
+5. jQuery Width Changer.
+6. jQuery Scroll Effects like Scroll to top , Fixed Breadcrumb on Scroll.
+7. Custom Css3 Flat Buttons and minimal buttons.
+8. Sidebar with Animations.
+9. Custom Tabbed Profiles.
+10. Custom Editor Theme.
+11. JQuery User Menu and Modal Login Box
+
+[b][url=http://myskins.org/Thread-Flat-Desire-Flat-MyBB-Premium-Theme]Retail Link[/url][/b]
+
+
+[b]Download Links[/b]
+[hide]
+[url=http://www17.zippyshare.com/v/cc1F7P6Z/file.html]http://www17.zippyshare.com/v/cc1F7P6Z/file.html[/url]
+[url=http://www.solidfiles.com/d/fc455684a1]http://www.solidfiles.com/d/fc455684a1[/url]
+[url=http://hugefiles.net/1887d7m18irx]http://hugefiles.net/1887d7m18irx[/url]
+[url=http://kaon.rghost.net/60375659]http://kaon.rghost.net/60375659[/url]
+[url=http://turbobit.net/pqn5yntvpdbh.html]http://turbobit.net/pqn5yntvpdbh.html[/url]
+[url=https://mega.co.nz/#!8xFAFL6B!vGvOmyGuxaq62B5FqEzV43tvom30QJEXLKbrLL9mZQw]https://mega.co.nz/#!8xFAFL6B!vGvOmyGuxaq62B5FqEzV43tvom30QJEXLKbrLL9mZQw[/url]
+[/hide]

@@ -1,0 +1,28 @@
+[align=center][img]http://i.imgur.com/o5heYKl.png[/img][/align]
+
+Hello guys,
+Its really great moment to announce that MyBB 1.8 Version was out a few days ago.So i decided to bring forth a simple, classy theme to dress the newly upgraded forums. I always wanted to bring out themes accessible to every person, free one's, which power lots of websites and thus earn a name for me.Henceforth, i worked on a pretty cool, colored, with custom elements, a theme called "18MySkins".
+The best part is, the theme is available for free to download at our MySkins.
+
+[b]Features :[/b]
+The theme is made with Css3 and jQuery elements.
+Custom Font Family (Source-sans) and FontAwesome icons are included.
+Tabbed profiles, Css3 main nav and Usernav.
+Css Breadcrumbs etc.
+
+[b]Previews:[/b]
+Index Page : http://bit.ly/1oJ0eo8
+Main Menu : http://bit.ly/1uChgcq
+User Menu : http://bit.ly/1vTolsK
+Thread : http://bit.ly/1xgzZ2x
+Profiles : http://bit.ly/1BedxWl
+
+[b]Live Demo[/b]
+Here is a live demo of the theme : http://bit.ly/1qAmc0H
+
+[b]License:[/b] 
+The theme is included with Custom License and all downloads mean the acceptance of License.
+For more details Visit : http://bit.ly/1lD2z9h
+The License should be read by everyone who downloaded the theme.
+
+[hide][b]Download :[/b] [url=http://www.mediafire.com/download/2dbo3dze5ivkle4/[1.8x]_18MySkins_Free_MyBB_Theme_for_MyBB_1.8_Vers_#1_dev.zip]Here[/url][/hide]

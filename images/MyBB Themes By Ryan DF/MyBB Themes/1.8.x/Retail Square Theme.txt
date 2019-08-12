@@ -1,0 +1,24 @@
+[align=center]
+[b][font=Verdana][size=large][color=#3399ff]Information:[/color][/size][/font][/b]
+Square is a minimalistic theme, renewed for MyBB 1.8 series.
+
+You can find a lot of details, animated forums, sidebars, news and more with jQuery technology, and of course, all squared.
+
+Tested in the latest Google Chrome, Opera and Mozilla Firefox versions.
+
+And all of this... free!
+[spoiler=Screenshots]
+[img]http://i.imgur.com/UQEf3XN.png[/img]
+
+[img]http://i.imgur.com/DXyb5ch.png[/img]
+[/spoiler]
+
+[hide]
+
+
+
+[code]
+http://a.pomf.se/bxsbgk.zip
+[/code]
+[/hide]
+[/align]

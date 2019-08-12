@@ -1,0 +1,24 @@
+[b]Feature List:[/b]
+# 1) Improved Header with Top Navigation.
+# 2) CSS Welcome Block links with CSS3 transition Hover Effects.
+# 3) Exclusive CSS menu with CSS3 Transition.
+# 4) Quick jQuery Search Function.
+# 5) New Exclusive icons.
+# 6) 4 Column Footer.
+# 7) Unread PM notification.
+# 8) User Avatar in Welcomeblock
+# 9) Google Font integration
+# 10) CSS Postbit Buttons with CSS3 transition Hover Effects.
+# 11) Post Icon Pack Included.
+# 12) Smiliey Pack Included.
+# 13) Group Images Pack Included.
+# 14) Text Link as Logo (Good for SEO)
+# 15) Forum Bit Slow Hover (CSS3 transition)
+
+Preview:
+[align=center][img]http://i.imgur.com/jQvNYoZ.png[/img][/align]
+
+Download:
+[hide]
+http://www.solidfiles.com/d/2ffae65568/Hoolya_v1.rar
+[/hide]

@@ -1,0 +1,32 @@
+Download - [hide]http://www.solidfiles.com/d/c606112d8a/Postial.RiP.zip[/hide]
+
+
+Preview - [img]http://i.imgur.com/x1VMgTw.png[/img]
+
+
+
+Features:
+Adaptive Slider Ready
+Clean Semi-flat Design
+Font-Awesome 4.0.3 Ready
+In-built Guest Warn
+Pure CSS Star Rating
+CSS Powered Custom Form Controls
+jQuery Animated Welcome Block
+jQuery Animated Quick Search Options
+jQuery Animated Index Sidebar
+jQuery Animated Category Collapse (fancyCollapse © Audentio Design)
+In-built jQuery News Ticker
+Overlap controlled jQuery BreadCrumb Text Trimmer
+Pure CSS Animated Main Menu Dropdown
+Pure CSS Animated UCP & MCP Multilevel Sidemenu
+Pure CSS Tabbed Profile
+Dynamic Menu Items & Profile Moderation Tab
+Revamped Compact ShowThread
+Redesigned Postbit
+Reconstructions of maximum templates with NojS fallback.
+Major Fixes:
+Postbit Classic Signature bottom-align fix.
+Short page-height footer bottom-align fix (jQuery).
+Editor Textbox overflow fix.
+ModCP Profile Editor nested table fix.

@@ -1,0 +1,21 @@
+[align=center]
+[img]http://i.gyazo.com/9c83dc9edfa7848aa7d9d1046517c97c.png[/img]
+[/align]
+
+Features:
+[list]
+[*]Latest CSS3 & HTML5 used.
+[*]CSS based buttons, backgrounds and more.
+[*]Fonts which are easy to read.
+[*]Nice colors.
+[*]Full support of Font-Awesome
+[*]Fixed fieldset border.
+[*]Avatar in Welcomeblock.
+[/list]
+
+[b]Download:[/b]
+[hide]
+[code]
+http://a.pomf.se/xkdrjr.rar
+[/code]
+[/hide]

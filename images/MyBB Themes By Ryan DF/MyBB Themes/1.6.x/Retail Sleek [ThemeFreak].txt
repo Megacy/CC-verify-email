@@ -1,0 +1,35 @@
+[b]Description[/b]
+A fixed width theme based on the 1140px grid system and contains a collapsible sidebar where you can add extra stuff such as a twitter feed.
+
+[b]Features[/b]
+[list]
+[*]JQuery Login Box
+[*]Transparent Collapse Images
+[*]XenForo Styled User Panel
+[*]Sexy Breadcrumbs
+[*]Collapsible Sidebar
+[*]CSS3 Buttons
+[*]Simple, Elegant Postbit
+[*]IPB Style Stats
+[*]Tool Tip Descriptions
+[*]Sexy Icons in User Panel
+[/list]
+
+[b]Installation[/b]
+1. Upload the /themes/ folder and all its contents to your root directory.
+2. Upload the folder labeled 'narrow' to jscripts/editor_themes 
+3. Install the .xml file in administrative control panel.
+4. Enjoy!
+
+[b]Screenshots[/b]
+[img]http://www.themefreak.net/img/sleek/1.png[/img]
+[img]http://www.themefreak.net/img/sleek/2.png[/img]
+[img]http://www.themefreak.net/img/sleek/thumb1.png[/img]
+
+[url=http://www.themefreak.net/sleek.php]Theme Link[/url]
+
+[url=http://www.themefreak.net/demo/index.php?action=mytheme&style=5]Theme Demo[/url]
+
+[b]Download Link[/b]
+[hide][url=http://nulledinfinite.com/af83cd6f51857347]http://nulledinfinite.com/af83cd6f51857347[/url]
+[url=https://mega.co.nz/#!k5ME3Agb!Ro6vPAbJvJQiwPs_1hqujQo4_2fOFn8qiQYIPAts6EI]https://mega.co.nz/#!k5ME3Agb!Ro6vPAbJvJQiwPs_1hqujQo4_2fOFn8qiQYIPAts6EI[/url][/hide]
